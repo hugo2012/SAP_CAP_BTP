@@ -7,3 +7,13 @@ https://learning.sap.com/courses/develop-cloud-applications-using-sap-business-a
 Develop a multitenant Software as a Service application in SAP BTP using CAP (Kyma + Cloud Foundry).
 
 https://github.com/SAP-samples/btp-cap-multitenant-saas?tab=readme-ov-file
+
+cloud-cap-risk-management
+https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-suppliers-ui/srv
+
+SAP CAP BOOKSTORE
+https://github.com/capire/bookstore/tree/main/app
+
+btp-developer-guide-cap
+
+https://github.com/SAP-samples/btp-developer-guide-cap/tree/main/documentation/remote-service
